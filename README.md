@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything to get me through programming
 - 📫 How to reach me: don't, I'll be either sleeping, studying or complaining (not specifically in this order)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm not sure i like programming hehe
+- ⚡ Fun fact: :)
 
 <!---
 orianou/orianou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
